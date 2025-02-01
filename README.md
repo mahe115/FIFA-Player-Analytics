@@ -6,7 +6,7 @@ Football is a **data-driven sport**, and insights from player performance, fitne
 
 
 ## 📊 Power BI Interactive Dashboard
-![Football Players Analytics Performance Dashboard](https://raw.githubusercontent.com/mahe115/FIFA-Player-Analytics/refs/heads/main/Dashboard.png?token=GHSAT0AAAAAAC6HFTEBO3I44XDP3EICKINQZ457RNQ)  
+![Football Players Analytics Performance Dashboard](https://github.com/mahe115/FIFA-Player-Analytics/blob/main/Dashboard.png)  
 
 [![View Dashboard](https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge&logo=power-bi)](https://app.powerbi.com/view?r=eyJrIjoiMWEzYjY1MzMtODI3YS00MWExLWE3MWQtOGY1YjBkZjI4MTY1IiwidCI6ImI5NDFiMTA2LTE1Y2UtNDQ0MS1hZjIwLTkyODU2M2Y1ZWRkOCJ9)
 
