@@ -1,13 +1,12 @@
 # ⚽ Football Player Data Analytics 📊  
 
-![Football Analytics](https://your-image-link-here)  
 
 ## 📌 Overview  
 Football is a **data-driven sport**, and insights from player performance, fitness levels, and game statistics can **revolutionize** team strategies. This project leverages **data analytics and visualization** to analyze **football players' performance metrics**, helping coaches, scouts, and analysts make **data-backed decisions**.  
 
 
 ## 📊 Power BI Interactive Dashboard
-![Football Analytics](https://raw.githubusercontent.com/mahe115/FIFA-Player-Analytics/refs/heads/main/Dashboard.png?token=GHSAT0AAAAAAC6HFTEBO3I44XDP3EICKINQZ457RNQ)  
+![Football Players Analytics Performance Dashboard](https://raw.githubusercontent.com/mahe115/FIFA-Player-Analytics/refs/heads/main/Dashboard.png?token=GHSAT0AAAAAAC6HFTEBO3I44XDP3EICKINQZ457RNQ)  
 
 [![View Dashboard](https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge&logo=power-bi)](https://app.powerbi.com/view?r=eyJrIjoiMWEzYjY1MzMtODI3YS00MWExLWE3MWQtOGY1YjBkZjI4MTY1IiwidCI6ImI5NDFiMTA2LTE1Y2UtNDQ0MS1hZjIwLTkyODU2M2Y1ZWRkOCJ9)
 
