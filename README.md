@@ -38,10 +38,12 @@ This project includes:
 
 ## 📊 Dataset Used  
 The dataset includes:  
-📌 **Player Stats:** Goals, assists,![Uploading Screenshot (302).png…]()
- shot accuracy, passing %, etc.  
-📌 **Match Performance:** Distance covered, sprint speed, stamina loss  
-📌 **Injury & Fitness Data:** Recovery rate, fatigue prediction  
+📌 **Player Stats:** Basic Details of the player (such as Name,age,nationality etc..)  
+📌 **Attacking Abilities:** Attacking Performance of the Player
+📌 **Defending Abilities:** Defending Performance of the Player
+📌 **Fielding Abilities:** Fielding Performance of the Player
+📌 **GoalKeeping Abilities:** GoalKeeping Performance of the Player
+📌 **Economical Stats :** Such as wages ,value,realse clause of the Player
 
 ## 🔍 Usefulness of the Project  
 ✅ **For Coaches:** Identify strengths & weaknesses of players  
@@ -52,5 +54,5 @@ The dataset includes:
 ## 🛠️ Installation & Usage  
 1️⃣ **Clone the Repository**  
 ```sh
-git clone https://github.com/yourusername/football-player-analytics.git  
+git clone https://github.com/mahe115/FIFA-Player-Analytics.git
 cd football-player-analytics  
