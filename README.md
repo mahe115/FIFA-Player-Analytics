@@ -13,10 +13,9 @@ Football is a **data-driven sport**, and insights from player performance, fitne
 If the above button does not work, click here: [Power BI Webview](YOUR_POWER_BI_EMBED_LINK_HERE).
 
 The goal of this project is to create meaningful visualizations for football player analytics, including:
-
-- Player performance metrics: Attacking, Defending, Fielding, Goalkeeping, and Overall Scores.
-- Economic information: Player value, wage, release clause.
-- Data transformation and segregation into different categories for better analysis.
+- ✔️Player performance metrics: Attacking, Defending, Fielding, Goalkeeping, and Overall Scores.
+- ✔️Economic information: Player value, wage, release clause.
+- ✔️Data transformation and segregation into different categories for better analysis.
   
 This project includes:
 1. Data extraction from the FIFA Index dataset.
@@ -37,62 +36,10 @@ This project includes:
   
 - **Dynamic Visualization**: Use Power BI to visualize key player metrics such as goal-scoring abilities, defensive capabilities, and economic statistics.
 
-## Technologies Used
-
-- **Python**:
-    - Pandas for data cleaning and transformation.
-    - Jupyter Notebook for coding and data processing.
-  
-- **Power BI**:
-    - Data visualization using tables, charts, and measures.
-    - DAX for custom calculations.
-
-
-## Steps Taken
-
-1. **Data Extraction and Cleaning:**
-    - Extracted football player statistics from the [FIFA Index website](https://www.fifaindex.com/).
-    - Loaded the dataset into Jupyter Notebook for data cleaning.
-    - Trimed unnecessary columns and kept only relevant data for analysis.
-    - Renamed columns for clarity.
-    - Filtered the dataset for relevant years and player IDs.
-
-2. **Data Transformation:**
-    - Created custom formulas for calculating player scores (attacking, defending, fielding, goalkeeping).
-    - Segregated data into different categories like `attacking`, `midfield`, `defending`, `goalkeeping`, and `economic`.
-    - Implemented a final trimming process to filter data based on player IDs from FIFA 2024 dataset.
-
-3. **Power BI Visualization:**
-    - Loaded the cleaned dataset into Power BI.
-    - Established relationships between tables using player IDs as the primary key.
-    - Created DAX measures to calculate:
-        - Attacking Score
-        - Defending Score
-        - Fielding Score
-        - Goalkeeping Score
-        - Overall Value (Economic Score)
-
-4. **Final Output:**
-    - The final dataset was cleaned, transformed, and saved for visualization.
-    - Created interactive Power BI reports to analyze football players' performance based on different metrics.
-
-## 🚀 Features  
-✔️ **Player Performance Analysis** – Tracks goals, assists, passing accuracy, and other key metrics  
-✔️ **Fitness & Stamina Insights** – Predicts player fatigue based on match data  
-✔️ **Comparative Analysis** – Compare players across different leagues and seasons  
-✔️ **Predictive Modeling** – AI-powered insights on potential player performance  
-✔️ **Visual Analytics Dashboard** – Interactive **Power BI & Matplotlib** visualizations  
-
-## 🏗️ Tech Stack  
-- **Programming:** Python (**pandas, numpy, seaborn, matplotlib**)  
-- **Machine Learning:** Scikit-Learn for predictive analytics  
-- **Data Visualization:** Power BI, Matplotlib, Seaborn  
-- **Storage:** CSV datasets, SQL (for structured storage)  
-- **Deployment:** Streamlit (for interactive dashboard), Jupyter Notebook  
-
 ## 📊 Dataset Used  
 The dataset includes:  
-📌 **Player Stats:** Goals, assists, shot accuracy, passing %, etc.  
+📌 **Player Stats:** Goals, assists,![Uploading Screenshot (302).png…]()
+ shot accuracy, passing %, etc.  
 📌 **Match Performance:** Distance covered, sprint speed, stamina loss  
 📌 **Injury & Fitness Data:** Recovery rate, fatigue prediction  
 
